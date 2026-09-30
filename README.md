@@ -2,11 +2,11 @@
 Notebooks for the coursework submission. Code for the YFV vaccination analysis (airr_yfv19).
 
 
-01.ipynb — raw files, sequencing depth, unique clonotypes Day 0 / Day 15.
+01.ipynb —raw files, sequencing depth, unique clonotypes Day 0 / Day 15.
 
 02.ipynb — Fisher's exact test Day0→Day15 on CDR3nt (q < 0.05, FC > 4), volcano plots.
 
-03.ipynb — Pogorelyy model end-to-end: AIRR→Yellow_fever, NegBin+Poisson noise model (pogorelyy_noise_model.py + pogorelyy_runner.py in this folder), Day0 vs Day15, model-positive selection.
+03.ipynb — Pogorelyy model end-to-end: AIRR→Yellow_fever, NegBin+Poisson noise model , Day0 vs Day15, model-positive selection.
 
 04.ipynb — Fisher vs model overlap, Jaccard, figures.
 
